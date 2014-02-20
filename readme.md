@@ -62,8 +62,6 @@ Address: 123 Fox Road<br>
 Phone: 1 (800) Dat Foxy
 </address>
 
-</body>
-</html>
 
 
 
