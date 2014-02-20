@@ -57,7 +57,7 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
 
 <address>
 Written by Anthony "DA FOX" Spadaccini<br>
-<a href="mailto:us@example.org">Any info on Fox's? Email me</a><br>
+Any info on fox's?<a href="mailto:us@example.org">Email me</a><br>
 Address: 123 Fox Road<br>
 Phone: 1 (800) Dat Foxy
 </address>
