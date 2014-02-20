@@ -66,8 +66,7 @@ Phone: 1 (800) Dat Foxy
 </html>
 
 
-  
-  <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
+
 </ol>
 
 <h2 id="Exercise2">Exercise 2</h2>
