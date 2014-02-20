@@ -48,12 +48,11 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
 
 <h2 id="Exercise1">Exercise 1</h2>
 <ol>
-  <li><b>Bold</b> some text</li>
+  
   <li><b>Fox's are taking over other planets</b></li>
-  <li>Make a <h3>Headline</h3></li>
   <li><h3>Fox's have become an adorable presence in mars</h3></li>
   <li>Add an image (<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
-  <li><img src="http://i.dailymail.co.uk/i/pix/2013/02/20/article-2281789-18134C10000005DC-104_964x708.jpg" height="50" width="50"</li>
+  <li><img src="http://i.dailymail.co.uk/i/pix/2013/02/20/article-2281789-18134C10000005DC-104_964x708.jpg" height="150" width="150"</li>
   <li><a href="http://www.coceleratoru.com">Link</a> to some website.</li>
   <li>Your link here:<a href="http://animals.nationalgeographic.com/animals/mammals/red-fox/">FOX PROBZ</a></li>
   <li>Add<menu>
