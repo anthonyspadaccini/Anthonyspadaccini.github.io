@@ -54,10 +54,17 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
   <li>Add an image (<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
   <li><img src="http://i.dailymail.co.uk/i/pix/2013/02/20/article-2281789-18134C10000005DC-104_964x708.jpg" height="350" width="350"</li>
   <li><a href="http://animals.nationalgeographic.com/animals/mammals/red-fox/">FOX PROBZ</a></li>
-  <li>Add<menu>
-<li>Red fox</li>
-<li>Black fox</li>
-<li>Purple and Green fox</li></menu> 
+
+<address>
+Written by Anthony "DA FOX" Spadaccini<br>
+<a href="mailto:us@example.org">Any info on Fox's? Email me</a><br>
+Address: 123 Fox Road<br>
+Phone: 1 (800) Dat Foxy
+</address>
+
+</body>
+</html>
+
 
   
   <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
