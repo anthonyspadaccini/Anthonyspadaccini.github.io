@@ -57,7 +57,7 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
   <li>Add<menu>
 <li>Red fox</li>
 <li>Black fox</li>
-<li>Purple and Green fox</li>
+<li>Purple and Green fox</li></menu> 
 
   
   <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
